@@ -1,2 +1,1 @@
-# Bridge_to_Tandon_HW
-Homework submission
+# Bridge to Tandon Homework Submission
